@@ -34,7 +34,7 @@ nav ul {
 }
 
 nav a {
-    color: white;
+    color: rgb(0, 38, 255);
     text-decoration: none;
     transition: color 0.3s ease;
 }
